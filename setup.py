@@ -17,7 +17,7 @@ setup(
     description="A small package for DVC-NLP",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=f"https://github.com/{arjunkumbakkara}/{DVC_NLP_CML_EC2}",
+    url=f"https://github.com/arjunkumbakkara/DVC_NLP_CML_EC2",
     author_email="arjunkumbakkara@gmail.com",
     packages=[SRC_REPO],
     license="MIT",
