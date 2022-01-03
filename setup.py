@@ -14,7 +14,7 @@ setup(
     name=SRC_REPO,
     version="0.0.1",
     author=AUTHOR_USER_NAME,
-    description="A small package for DVC-NLP",
+    description="A small package for DVC-NLP-EC2 ",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url=f"https://github.com/arjunkumbakkara/DVC_NLP_CML_EC2",
